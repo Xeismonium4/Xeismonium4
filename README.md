@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeismonium4&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 
 <p align="left">
